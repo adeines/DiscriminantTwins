@@ -1,0 +1,12 @@
+The authors of this code are Alex Barrios, Maila Brucal-Hallare, Alyson Deines, Piper Harris, and Manami Roy.
+
+To cite:
+
+@misc{GitHubDIT,
+  author = {Barrios, Alexander J., and Brucal-Hallare, Maila,  and Deines, Alyson and Harris, Piper and Roy, Manami},
+  title = {Code for prime isogenous discriminant ideal twins},
+  year = {2024},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/adeines/DiscriminantTwins/tree/master/RNT1}}
+}
